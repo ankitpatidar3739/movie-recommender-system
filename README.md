@@ -36,4 +36,7 @@ scikit-learn
 
 nltk
 
-difflib (Standard library, usually included Screenshot 2025-10-06 194105 Screenshot 2025-10-06 194014
+<img width="1132" height="640" alt="Screenshot 2025-10-06 194014" src="https://github.com/user-attachments/assets/897310c7-8bbc-4675-b3e5-b2b6a96d37ed" />
+<img width="1162" height="717" alt="Screenshot 2025-10-06 194105" src="https://github.com/user-attachments/assets/8816a287-50ba-49dc-8ddb-ab61a0e7f090" />
+
+
